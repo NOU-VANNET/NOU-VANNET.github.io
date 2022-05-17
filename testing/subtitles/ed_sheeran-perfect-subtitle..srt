@@ -1,132 +1,167 @@
-WEBVTT
-
-00:00:00.000 --> 00:00:00.000
+0
+00:00:00,000 --> 00:00:00,000
 by RentAnAdviser.com
 
-00:00:20.300 --> 00:00:26.000
+1
+00:00:20,300 --> 00:00:26,000
 I found a love for me
 
-00:00:27.800 --> 00:00:30.400
+2
+00:00:27,800 --> 00:00:30,400
 Darling just dive right in
 
-00:00:31.600 --> 00:00:33.900
+3
+00:00:31,600 --> 00:00:33,900
 And follow my lead
 
-00:00:35.400 --> 00:00:42.000
+4
+00:00:35,400 --> 00:00:42,000
 Well I found a girl beautiful
 and sweet
 
-00:00:42.900 --> 00:00:49.300
+5
+00:00:42,900 --> 00:00:49,300
 I never knew you were the
 someone waiting for me
 
-00:00:49.400 --> 00:00:54.100
+6
+00:00:49,400 --> 00:00:54,100
 'Cause we were just kids
 when we fell in love
 
-00:00:54.300 --> 00:00:58.000
+7
+00:00:54,300 --> 00:00:58,000
 Not knowing what it was
 
-00:00:58.100 --> 00:01:05.650
+8
+00:00:58,100 --> 00:01:05,650
 I will not give you up this time
 
-00:01:05.700 --> 00:01:12.900
+9
+00:01:05,700 --> 00:01:12,900
 But darling, just kiss me slow,
 your heart is all I own
 
-00:01:13.000 --> 00:01:19.100
+10
+00:01:13,000 --> 00:01:19,100
 And in your eyes you're holding mine
 
-00:01:20.000 --> 00:01:31.100
+11
+00:01:20,000 --> 00:01:31,100
 Baby, I'm dancing in the dark
 with you between my arms
 
-00:01:31.200 --> 00:01:38.200
+12
+00:01:31,200 --> 00:01:38,200
 ****foot on the grass, listening
 to our favorite song
 
-00:01:38.300 --> 00:01:45.300
+13
+00:01:38,300 --> 00:01:45,300
 When you said you looked a mess, I
 whispered underneath my breath
 
-00:01:45.400 --> 00:01:53.300
+14
+00:01:45,400 --> 00:01:53,300
 But you heard it, darling,
 you look perfect tonight
 
-00:01:58.600 --> 00:02:05.600
+15
+00:01:58,600 --> 00:02:05,600
 Well I found a woman, stronger
 than anyone I know
 
-00:02:06.200 --> 00:02:13.700
+16
+00:02:06,200 --> 00:02:13,700
 She shares my dreams, I hope that
 someday I'll share her home
 
-00:02:13.800 --> 00:02:21.800
+17
+00:02:13,800 --> 00:02:21,800
 I found a love, to carry more
 than just my secrets
 
-00:02:21.900 --> 00:02:28.100
+18
+00:02:21,900 --> 00:02:28,100
 To carry love, to carry
 children of our own
 
-00:02:28.200 --> 00:02:32.700
+19
+00:02:28,200 --> 00:02:32,700
 We are still kids, but
 we're so in love
 
-00:02:32.800 --> 00:02:36.500
+20
+00:02:32,800 --> 00:02:36,500
 Fighting against all odds
 
-00:02:36.600 --> 00:02:44.100
+21
+00:02:36,600 --> 00:02:44,100
 I know we'll be alright this time
 
-00:02:44.200 --> 00:02:47.600
+22
+00:02:44,200 --> 00:02:47,600
 Darling, just hold my hand
 
-00:02:47.700 --> 00:02:51.600
+23
+00:02:47,700 --> 00:02:51,600
 Be my girl, I'll be your man
 
-00:02:51.700 --> 00:02:58.100
+24
+00:02:51,700 --> 00:02:58,100
 I see my future in your eyes
 
-00:02:58.400 --> 00:03:09.600
+25
+00:02:58,400 --> 00:03:09,600
 Baby, I'm dancing in the dark,
 with you between my arms
 
-00:03:09.700 --> 00:03:16.700
+26
+00:03:09,700 --> 00:03:16,700
 ****foot on the grass, listening
 to our favorite song
 
-00:03:16.800 --> 00:03:22.700
+27
+00:03:16,800 --> 00:03:22,700
 When I saw you in that dress,
 looking so beautiful
 
-00:03:22.800 --> 00:03:31.400
+28
+00:03:22,800 --> 00:03:31,400
 I don't deserve this, darling,
 you look perfect tonight
 
-00:03:43.800 --> 00:03:55.000
+29
+00:03:43,800 --> 00:03:55,000
 Baby, I'm dancing in the dark,
 with you between my arms
 
-00:03:55.100 --> 00:04:02.000
+30
+00:03:55,100 --> 00:04:02,000
 ****foot on the grass, listening
 to our favorite song
 
-00:04:02.100 --> 00:04:05.400
+31
+00:04:02,100 --> 00:04:05,400
 I have faith in what I see
 
-00:04:05.500 --> 00:04:11.800
+32
+00:04:05,500 --> 00:04:11,800
 Now I know I have met
 an angel in person
 
-00:04:11.900 --> 00:04:15.700
+33
+00:04:11,900 --> 00:04:15,700
 And she looks perfect
 
-00:04:15.800 --> 00:04:19.700
+34
+00:04:15,800 --> 00:04:19,700
 I don't deserve this
 
-00:04:19.800 --> 00:04:24.300
+35
+00:04:19,800 --> 00:04:24,300
 You look perfect tonight
 
-00:04:25.300 --> 00:04:34.300
+36
+00:04:25,300 --> 00:04:34,300
 by RentAnAdviser.com
